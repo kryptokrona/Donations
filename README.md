@@ -2,6 +2,8 @@
 
 Here you can make a donation or see where the funds went.
 
+Below are a few addresses that we have set up to receive donations that will go solely towards development costs and exchange listing fees for Kryptokrona.
+
 ### BTC*
 
 ```
