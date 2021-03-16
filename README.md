@@ -8,7 +8,7 @@ Here you can make a donation or see where the funds went.
 bc1qjrdcn4x32r2sn9s4zyh4tw8z6xx5jzjwyp5085kf8snygkzwm28shaddae
 ```
 
-**We've moved all BTC funds into a multisig wallet, all tx fees were covered by 313.
+**We've moved all BTC funds into a multisig wallet, all tx fees were covered by 313. <br>
 Old address "1BpUCYVMN72MXtkYuPpfkhUHjJ5C87FQct"*
 
 ### ETH  
