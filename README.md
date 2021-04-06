@@ -1,3 +1,4 @@
+<a href="https://chat.kryptokrona.se"><img src="https://img.shields.io/discord/562673808582901793?label=Discord&logo=Discord&logoColor=white&style=plastic"></a>
 # Donations ❤️
 
 Here you can make a donation or see where the funds went.
