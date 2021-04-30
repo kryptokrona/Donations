@@ -12,7 +12,7 @@ Below are a few addresses that we have set up to receive donations that will go 
 bc1qjrdcn4x32r2sn9s4zyh4tw8z6xx5jzjwyp5085kf8snygkzwm28shaddae
 ```
 
-**We've moved all BTC funds into a multisig wallet, all tx fees were covered by 313.<br>
+**We've moved all BTC funds into a multisig wallet, all tx fees were covered by swepool.<br>
 Old address "1BpUCYVMN72MXtkYuPpfkhUHjJ5C87FQct"*
 
 ### ETH  
