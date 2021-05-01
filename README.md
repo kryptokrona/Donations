@@ -27,17 +27,36 @@ Old address "1BpUCYVMN72MXtkYuPpfkhUHjJ5C87FQct"*
 LSfT4gQhYDLcMd9GqBH7J3DTH2mzYq9Uqe
 ```
 
-### XKR  
+### Monero [XMR]
+
+```
+4ApSXHEEqWMgwbGdakGtNZbVVjTbFwtRHH65yV4rASFfhPGaEFZuAvkiSfsyMq71F5MYymckNwvdG96w9dtNggfS5vhZZpq
+```
+
+##### Monero [XMR] | View key 
+
+```
+3e0645774050e1a2dea17a4feffd81a03c693a8ec54f601b37d22285bfaf9600
+```
+
+### Kryptokrona [XKR]  
 
 ```
 SEKReYFsoia2ftjRANiRyoTQ4CMxuTMQTUD8oLYwXKiPFKJuDJbnPhJCfUAu1NpFn7Hf3khtfEE7wXQ1JAnJVPfSff9WfueaduZ
 ```
 
-##### XKR View key 
+##### Kryptokrona [XKR] | View key 
 
 ```
 75b4510cc3c10add54b2d98ff2c755fd3e3b0afd5eb6f86b1950881de6c5280b
 ```
+
+# Patreon 🙏
+
+If the options above doesn't suit you, we recently created a patreon account for monthly cash donations. 
+
+[Click here](https://www.patreon.com/kryptokrona)
+
 
 
 
@@ -45,7 +64,7 @@ SEKReYFsoia2ftjRANiRyoTQ4CMxuTMQTUD8oLYwXKiPFKJuDJbnPhJCfUAu1NpFn7Hf3khtfEE7wXQ1
 
 
 
-#### Expenditure
+# Expenditure 💸
 
 | Date       | Used Wallet | Amount   | in USD | Description     |
 | ---------- | ----------- | -------- | ------ | --------------- |
