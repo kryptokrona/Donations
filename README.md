@@ -1,5 +1,6 @@
 <a href="https://chat.kryptokrona.se"><img src="https://img.shields.io/discord/562673808582901793?label=Discord&logo=Discord&logoColor=white&style=plastic"></a>
 <a href="https://twitter.com/kryptokrona"><img src="https://img.shields.io/twitter/follow/kryptokrona?style=social"></a>
+
 # Donations ❤️
 
 Here you can make a donation or see where the funds went.
@@ -68,5 +69,6 @@ If the options above doesn't suit you, we recently created a patreon account for
 
 | Date       | Used Wallet | Amount   | in USD | Description     |
 | ---------- | ----------- | -------- | ------ | --------------- |
-| 03/11/2021 | BTC         | 0.006169 | $350   | iOS Development |
+| 03/11/2021 | BTC         | 0.006169 | ~$350  | iOS Development |
+| 04/01/2021 | BTC         | 0.000940 | ~$55   | Ledger Nano     |
 
