@@ -10,7 +10,7 @@ Below are a few addresses that we have set up to receive donations that will go 
 ### BTC*
 
 ```
-UPDATING
+bc1q42l35uvrtmm55vq2jpugkx7usdm37pva3u4vcd
 ```
 
 **We've moved all BTC funds into a multisig wallet, all tx fees were covered by swepool.<br>
@@ -19,7 +19,7 @@ Old address "1BpUCYVMN72MXtkYuPpfkhUHjJ5C87FQct"*
 ### ETH  
 
 ```
-0x62324c3F183f6165D8a33CED8A18B7f1eA879Ac9
+0x04463cCf39a7D2072AA2385C31d5430aa6087166
 ```
 
 ### LTC  
